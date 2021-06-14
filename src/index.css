@@ -2,6 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+.menu-container {
+  @apply flex flex-col gap-y-2;
+}
+
 .menu-title {
   @apply font-medium text-sm text-gray-500 tracking-wide;
+}
+
+.menu-item {
+  @apply flex items-center justify-between;
+}
+
+.increment-decrement-btn {
+  @apply w-20 bg-gray-800 h-7 rounded-md divide-x divide-gray-700 flex items-center;
+}
+
+.increment-btn,
+.decrement-btn {
+  @apply flex-1 focus:outline-none text-white disabled:opacity-50;
 }
