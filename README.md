@@ -1,4 +1,5 @@
 # Kodsnap
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/yigithanyucedag/kodsnap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/yigithanyucedag/kodsnap/stargazers/)
 
 ✨ Present your code in a beautiful way with Kodsnap
 
