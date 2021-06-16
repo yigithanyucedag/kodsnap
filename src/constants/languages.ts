@@ -1,0 +1,28 @@
+const LANGUAGES = [
+  { name: "JavaScript", code: "javascript" },
+  { name: "HTML", code: "html" },
+  { name: "XML", code: "xml" },
+  { name: "SVG", code: "svg" },
+  { name: "CSS", code: "css" },
+  { name: "C-Like", code: "clike" },
+  { name: "ASP.NET (C#)", code: "aspnet" },
+  { name: "C", code: "c" },
+  { name: "C#", code: "csharp" },
+  { name: "C++", code: "cpp" },
+  { name: "Dart", code: "dart" },
+  { name: "Django/Jinja2", code: "django" },
+  { name: "Git", code: "git" },
+  { name: "Go", code: "go" },
+  { name: "Haxe", code: "haxe" },
+  { name: "Java", code: "java" },
+  { name: "PHP", code: "php" },
+  { name: "Python", code: "python" },
+  { name: "React JSX", code: "jsx" },
+  { name: "React TSX", code: "tsx" },
+  { name: "Sass (Sass)", code: "sass" },
+  { name: "Sass (Scss)", code: "scss" },
+  { name: "Swift", code: "swift" },
+  { name: "TypeScript", code: "typescript" },
+];
+
+export default LANGUAGES;
